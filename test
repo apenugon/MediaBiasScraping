@@ -1,0 +1,1585 @@
+<!DOCTYPE html> <!--needWrap true --> <html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"> <!-- Vader always loves you and the Chad --> <head> <!-- NR header --> <title>"politics" - CBS News</title> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> <meta name="" http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> <meta name="google-site-verification" content="chhZloA0CB9_V8L4RwG8r3n13uWbMfCBdRTXHAgs3hI" /> <meta name="application-name" content="CBSNews.com"/> <meta name="msapplication-TileColor" content="#333131"/> <meta name="msapplication-TileImage" content="http://i.i.cbsi.com/cnwk.1d/html/cbsnews/misc/7791ffbd-484b-4c62-bea1-3ceacffa51a8.png"/> <link type="text/css" rel="stylesheet" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/global/base.css"/> <!--[if gte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie9.css"/>
+<![endif]-->
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie8.css"/>
+<![endif]-->
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie7.css"/>
+<![endif]-->
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/global/ie6.css"/>
+<![endif]--> <link type="text/css" rel="stylesheet" rev="stylesheet" media="print" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnews/global/print.css"/> <!-- UGC Maintenance Mode --> <!-- ugcFlags Comments mmode value: false -->
+<!-- ugcFlags Forums mmode value: false -->
+<!-- ugcFlags Toolbar mmode value: false -->
+<!-- ugcFlags AssetRating mmode value: false -->
+<!-- ugcFlags UFO mmode value: false -->
+<!-- ugcFlags DlUFO mmode value: false -->
+<!-- ugcFlags Login mmode value: false -->
+<!-- ugcFlags UserLists mmode value: false -->
+<!-- ugcFlags UserDB mmode value: false -->
+<!-- ugcFlags RPS mmode value: false -->
+<!-- ugcFlags Global mmode value: false --> <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cbsnews.com/feeds/rss/main.rss" /> <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cbsnews.com/2003-5_162-0.xml" /> <script type="text/javascript" src="http://i.i.cbsi.com/cnwk.1d/html/rb/js/tron/Build/Filelists/global/loader.162.0.js"></script> <script type="text/javascript" src="http://i.i.cbsi.com/cnwk.1d/html/rb/js/tron/Build/Filelists/global/base.162.0.js"></script> <script type="text/javascript" src="//fonts.cbsnews.com/jjs5hem.js"></script> <script type="text/javascript">try{Typekit.load();}catch(e){}</script> <!--[if IE 6]> <script type="text/javascript" src="http://i.i.cbsi.com/cnwk.1d/html/rb/js/tron/FixPNG.js"></script> <![endif]--> <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]--> <script type="text/javascript">
+        
+                (function() {
+                    var uvars = Cookie.read('cbs_urs');
+                    UserVars = new LocalVars.UserVars((uvars) ? JSON.decode(uvars) : {});
+                })();
+            
+        PageVars = new LocalVars.PageVars({
+            pageType: '1770',
+            nodeId: '5',
+            siteId: '162',
+            assetId: '0',
+            pageNumber: '',
+            channelId: '5',
+            editionId: '3',
+            brandId: '55',
+            breadcrumb: '5',
+            userIP: '128.237.121.186, 192.70.222.76, 128.237.121.186',
+            sectionId: '5',
+	    guid: window.cbsiGUID
+        });
+
+        var cbsVar_sectId = '5';
+
+    	
+    </script> <script type="text/javascript" src="http://i.i.cbsi.com/cnwk.1d/Ads/common/manta/adFunctionsD-cbsnews.js"></script>
+<script type="text/javascript">
+    var cbsiAdGlobal = {
+        'SITE' : '162',
+        'BRAND' : '55',
+        
+                'CID' : '0',
+            
+        'CNET-PAGE-GUID' : window.cbsiGUID,
+    
+        
+        
+                'NCAT' : '5:',
+            
+    
+        'NODE' : '5',
+        'PTYPE' : '1770',
+        'STAGING' : '0',
+        'DVAR_EXCLUDE' : ''          //ad refresh
+        
+      };
+    cbsiRegisterAdGlobals(cbsiAdGlobal);
+    cbsiSetDeferredLocalPage("/html/Ads/common/MantaRay4_5Local_cbsnews.html");    //ad refresh
+</script> <script type="text/javascript" src="http://dw.cbsi.com/js/dw.js"></script> <script type="text/javascript">
+        DW.pageParams = {
+            siteid: '162',
+            edid:   '3',
+            prtnr:  'CNET Networks, Inc.',
+            ptid:   '1770',
+            onid:   '5',
+            asid:   '0',
+            pgnbr:  '',
+            astId:  '1',
+	    pguid:  window.cbsiGUID
+        };
+
+        DW.regSilo = '1';
+        
+
+    
+    </script> <script type="text/JavaScript">
+    <!--
+       var cbsiAd80_100 = {
+           'SP': '80',
+           'POS': '100'
+       };
+       cbsiGetAd(cbsiAd80_100);
+    //-->
+    </script> <script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+	var gads = document.createElement('script');
+	gads.async = true; gads.type = 'text/javascript';
+	gads.src = 'http://www.googletagservices.com/tag/js/gpt.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(gads, node);
+})();
+</script> <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['nT._setAccount', 'UA-27653683-1']);
+  _gaq.push(['nT._setDomainName', 'atlantis2.cbsnews.com']);
+  _gaq.push(['nT._setAllowLinker', true]);
+  _gaq.push(['nT._setSampleRate', '1']);
+  _gaq.push(['nT._trackPageview']);
+
+  
+  
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> <link rel="alternate" type="application/rss+xml" title="CBSNews.com - Top Stories RSS" href="http://www.cbsnews.com/feeds/rss/main.rss" /> <!-- first 2 are legacy css that will eventually be absorbed into single cbsnewsless file --> <link type="text/css" rel="stylesheet" rev="stylesheet" media="screen" href="http://i.i.cbsi.com/cnwk.1d/css/rb/Build/cbsnewsless/search/search.css"/> <meta name="description" content="View search results on CBS News for &quot;politics&quot; from CBS News. " /> <meta name="keywords" content="politics, politics news, politics world, politics politics, politics us." /> <meta name ="robots" content="noindex, follow"> <script type="text/javascript" src="http://i.i.cbsi.com/cnwk.1d/html/rb/js/tron/Build/Filelists/1770/1770.cbsnews.js"></script>
+<!-- nagTag --> </head> <body class="siteId162 pageType1770 nodeId5 channelId5 isGeneric"> <a name="top"></a> <!-- ClickTale top -->
+<script type="text/javascript">
+    var WRInitTime = (new Date()).getTime();
+</script>
+<!-- /ClickTale top --> <div id="rb_shell"> <header id="rbHeader"> <!-- BREAKING NEWS WILDCARD --> <div id="breakingNewsBanner" section="breakingnews"><!-- --></div> <script type="text/javascript"> var breakingNewsTicker = new Ticker('breakingNewsBanner', {dataUrl: '/feedfiles/breakingnews.xml'}); </script> <div id="wc25" section="breakingnews"></div> <div id="wc26" section="breakingnews"></div> <!-- END BREAKING NEWS WILDCARD --> <div class="showNav"> <ul> <li class="active"><a href="/">CBSNews.com</a></li> <li class="showNavSplit">/</li> <li><a href="/evening-news/">CBS Evening News</a></li> <li class="showNavSplit">/</li> <li><a href="/cbsthismorning/">CBS This Morning</a></li> <li class="showNavSplit">/</li> <li><a href="/sections/48hours/main3410.shtml">48 Hours</a></li> <li class="showNavSplit">/</li> <li><a href="/sections/60minutes/main3415.shtml">60 Minutes</a></li> <li class="showNavSplit">/</li> <li><a href="/sunday-morning/">Sunday Morning</a></li> <li class="showNavSplit">/</li> <li><a href="/face-the-nation/">Face the Nation</a></li> </ul> </div> <div class="int"> <div class="headerSearch"> <div class="loginSearch" section="loginSearch"> <form method="get" action="/1770-5_162-0.html" class="universalSearch" name="tsearch" section="srch"> <div class="searchBoxWrap"> <span> <input type="text" name="query" size="20" maxlength="255" class="searchBox"/> </span> </div> <input type="hidden" name="tag" value="srch" /> <input type="hidden" name="searchtype" value="cbsSearch" /> <input type="submit" class="searchGo" value="Go" /> </form> </div> </div> <nav id="categoryNav"> <ul class="catNavBar catNavChannel5"> <li class="genericLogo"><a href="/"></a></li> <li class="first" id="flyoutVideotab"><span class="catLinkWrap"><a href="http://www.cbsnews.com/video/" class="catLink video ">Video</a></span><div class="cbsNewsFlyout" id="flyOutVideo" style="display:none;"></div></li> <li class="" id="flyoutUStab"><span class="catLinkWrap"><a href="/us/" class="catLink us ">US</a></span><div class="cbsNewsFlyout" id="flyOutUS" style="display:none;"></div></li> <li class="" id="flyoutWorldtab"><span class="catLinkWrap"><a href="/world/" class="catLink world ">World</a></span><div class="cbsNewsFlyout" id="flyOutWorld" style="display:none;"></div></li> <li class="" id="flyoutPoltab"><span class="catLinkWrap"><a href="/politics/" class="catLink politics ">Politics</a></span><div class="cbsNewsFlyout" id="flyOutPolitcs" style="display:none;"></div></li> <li class="" id="flyoutEnttab"><span class="catLinkWrap"><a href="/entertainment" class="catLink entertainment ">Entertainment</a></span><div class="cbsNewsFlyout" id="flyOutEntertainment" style="display:none;"></div></li> <li class="" id="flyoutHealthtab"><span class="catLinkWrap"><a href="/health/" class="catLink health ">Health</a></span><div class="cbsNewsFlyout" id="flyOutHealth" style="display:none;"></div></li> <li class="" id="flyoutMWtab"><span class="catLinkWrap"><a href="/moneywatch/" class="catLink moneywatch ">MoneyWatch</a></span><div class="cbsNewsFlyout" id="flyOutMW" style="display:none;"></div></li> <li class="" id="flyoutTechtab"><span class="catLinkWrap"><a href="/tech/" class="catLink tech ">SciTech</a></span><div class="cbsNewsFlyout" id="flyOutTech" style="display:none;"></div></li> <li class="" id="flyoutCrimetab"><span class="catLinkWrap"><a href="/crimesider/" class="catLink crime ">Crime</a></span><div class="cbsNewsFlyout" id="flyOutCrime" style="display:none;"></div></li> <li class="" id="flyoutSportstab"><span class="catLinkWrap"><a href="http://www.cbssports.com" target="new" class="catLink sports ">Sports <span class="doubleArrows">&raquo;</span></a></span><div class="cbsNewsFlyout" style="display:none;"></div></li> <li class="" id="allCatTab"> <span class="catLinkWrap"><a class="catLink more">More</a></span> <div id="allCatDropDown" class="cbsNewsFlyout" style="display:none;"> <ul> <li class="hed">Blogs</li> <!--<li><a href="http://www.cbsnews.com/8300-34222_162-10391739.html"><span>Political Eye</span></a></li>--> <li><a href="http://www.cbsnews.com/8300-504784_162-10391705.html"><span>The Feed</span></a></li> <li><a href="http://www.cbsnews.com/politics/battleground/"><span>Battleground</span></a></li> <li><a href="http://www.cbsnews.com/politics/white-house/"><span>The WH</span></a></li> </ul> <ul> <li class="hed">Webshows</li> <li><a href="http://www.cbsnews.com/60minutesovertime/"><span>60 Overtime</span></a></li> <li><a href="http://www.cbsnews.com/face-the-nation/face-to-face/"><span>Face to Face</span></a></li> </ul> <ul> <li class="hed">Resources</li> <li><a href="/2718-18565_162-1660/cbs-news-mobile/"><span>Mobile</span></a></li> <li><a href="/2718-18565_162-1663/cbs-radio-news/"><span>Radio</span></a></li> <li><a href="/2718-18565_162-1672.html"><span>Local</span></a></li> </ul> </div> </li> <li id="loginAction" class="loginAction"> <div class="loggedOut"> <span class="catLinkWrap"> <a id="openLogIn" class="catLink login">Log In</a> </span> <div id="loginWrapper" class="cbsNewsFlyout" style="display: none;"> <ul> <li class="first"><a id="openLogIn" onclick="CURS.Manager.checkLogin({ursForm: 'login', appId: 189})">Log In</a></li> <li><a onclick="CURS.Manager.checkLogin({ursForm: 'register', appId: 189})">Join CBSNews.com</a></li> <li class="last socialConnect">Sign in with <span id="gigyaHeader" class="small gigyaWidget"></span></li> </ul> </div> </div> </li> <li id="logoutAction" class="loginAction"> <div class="loggedIn" style="display: none;"> <span class="catLinkWrap"> <a class="welcome">Profile</a> </span> <div id="logoutWrapper" class="cbsNewsFlyout" style="display: none;"> <ul> <li class="first socialConnect"><span id="gigyaHeaderConnections" class="gigyaWidget connections"></span></li> <li><a href="/8721-4_162-0.html">Manage my newsletter subscriptions</a></li> <li><a href="/1341-4_162-189.html">Update my e-mail address</a></li> <li><a href="/1343-4_162-189.html">Change my password</a></li> <li class="last"><a class="logOut" href="/1331-4_162-189.html">Log Out</a></li> </ul> </div> </div> </li> </ul> </nav> <!--isShow: --> </div> </header> <div id="rb_skin" class="rb_skin"> <script type="text/JavaScript">
+    var mantleSkinExists = false;
+</script> <div id="mantle_skin"> <script type="text/JavaScript">
+                        <!--
+                            var cbsiAd119_100 = {
+                              'SP' : '119',
+                              'POS' : '100',
+                              'WIDTH' : '1600',
+                              'HEIGHT' : '1000',
+                              'CALLBACK' : {onload: mantleOnLoadCallback2},
+                              'REFRESH' : '1'
+                              };
+                            cbsiSetupAdDiv("cbsiAd119_100", cbsiAd119_100);
+                            cbsiAddToAdQueue(["cbsiAd119_100"]);
+
+                        function mantleOnLoadCallback2(callbackArr){
+                            if(callbackArr.isBlank == 0) {
+                                $$('#dashboard').setStyles({
+                                    width: '1020px',
+                                    marginLeft: 'auto',
+                                    marginRight: 'auto'
+                                });
+                                mantleSkinExists = true;
+                            }
+                        }
+                        //-->
+                </script> </div> <div id="leaderboard" class="advertisement"> <script type="text/JavaScript">
+    <!--
+            var cbsiAd264_100 = {
+             'SP' : '264',
+             'POS' : '100',
+              'CALLBACK' : {onload: leaderboardOnLoadCallback},
+             'REFRESH' : '1'
+            };
+           cbsiSetupAdDiv("cbsiAd264_100", cbsiAd264_100);
+           cbsiAddToAdQueue(["cbsiAd264_100"]);
+
+            function leaderboardOnLoadCallback(callbackArr){
+                if(callbackArr.isBlank == 0) {
+                        if(mantleSkinExists){
+                            $$('#leaderboard').setStyles({
+                                'padding' : '10px 0'
+                            });
+                        }
+                        else{
+                            
+                                    
+                                            $$('#leaderboard').setStyles({
+                                                'position' : 'relative',
+                                                'background-color' : 'white',
+                                                'background' : 'none,-khtml-gradient(linear,left top,left bottom,from(#E0E0E0),to(#F2F2F2))',
+                                                'background' : 'none,-moz-linear-gradient(top,#E0E0E0 0,#F2F2F2 100%)',
+                                                'background' : 'none,-webkit-gradient(linear,left top,left bottom,color-stop(0,#E0E0E0),color-stop(100%,#F2F2F2))',
+                                                'border-top' : '1px solid white',
+                                                '-webkit-box-shadow' : '0 -6px 10px #E7E7E7 inset',
+                                                '-moz-box-shadow' : '0 -6px 10px #e7e7e7 inset',
+                                                'box-shadow' : '0 -6px 10px #E7E7E7 inset',
+                                                'padding' : '10px 0',
+                                                'text-align' : 'center',
+                                                'clear' : 'both'
+                                            });
+                                            $$('.pageType2718 #leaderboard, .pageType2302 #leaderboard').setStyles({
+                                                'background' : '#000',
+                                                'border-top': '1px solid #202022',
+                                                '-webkit-box-shadow': 'none',
+                                                '-moz-box-shadow': 'none; ',
+                                                'box-shadow': 'none'
+                                            });
+                                        
+                                
+
+                        }
+                }
+            }
+    //-->
+    </script> </div> <div id="rb_wrap"> <div id="rb_content"> 
+ <div id="cbsContentWrap" class="contentWrap"> <div id="cbsContent"> <div class="cbsInnerWrap"> <div id="contentMain"> <div class="singleColumn"> <h1 class="heroTopic">Results for "politics"</h1> <div id="resultsHead"> 53,031 results for "politics" </div> <div class="searchFilterWrap"> <ul class="searchFilter"> <li class="sectLabel first"><span>Filter Results:</span></li> <li id="contentTypeTab"><span>Content Type</span><span class="dropDownArrow"></span> <div id="contentTypeDropdown" class="navDropDown" style="display:none;"> <ul> <li > <a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&sort=updateDate desc" > <span>All</span> <span class="count">(62,192)</span> </a> </li> <li class="selected"> <a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&sort=updateDate desc&pageType=30"> <span>News</span> <span class="count">(53,031)</span> </a> </li> <li > <a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&sort=updateDate desc&pageType=14"> <span>Videos</span> <span class="count">(8,774)</span> </a> </li> <li > <a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&sort=updateDate desc&pageType=49"> <span>Galleries</span> <span class="count">(387)</span> </a> </li> </ul> </div> </li> <li id="sortTab"><span>Sort By</span><span class="dropDownArrow"></span> <div id="sortDropdown" class="navDropDown" style="display:none;"> <ul> <li ><a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&rpp=30&pageType=30&sort=relevance"><span>Relevance</span></a></li> <li class="selected"><a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&rpp=30&pageType=30&sort=updateDate%20desc"><span>Date</span></a></li> </ul> </div> </li> <li class="last" id="paginationTab"><span>Display</span><span class="dropDownArrow"></span> <div id="paginationDropdown" class="navDropDown" style="display:none;"> <ul> <li ><a href="?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=10"><span>10</span></a></li> <li ><a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=20"><span>20</span></a></li> <li class="selected"><a href="1770-5_162-0.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=30"><span>30</span></a></li> </ul> </div> </li> </ul>
+</div> <div id="filterResults" style="display: none">
+<label for="pageType">Content Type:</label>
+<select id="pageType" name="pageType"> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate desc">All</option> <option selected="selected" value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate desc&pageType=30">News</option> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate desc&pageType=14">Videos</option> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate desc&pageType=49">Galleries</option> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate desc&pageType=8334">Media Post</option>
+</select> <label for="relevance">Relevance:</label>
+<select id="relevance" name="relevance"> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=relevance">Relevance</option> <option selected="selected" value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30&sort=updateDate%20desc">Date</option>
+</select> <label for="rpp">Show:</label>
+<select id="rpp" name="rpp"> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=10">10</option> <option value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=20">20</option> <option selected="selected" value="?query=politics&searchtype=cbsSearch&sort=updateDate desc&pageType=30&sort=updateDate desc&rpp=30">30</option>
+</select> </div> <div class="resultsContent"> <!--premier Results head space--> <!-- /premier Results head space --> <iframe src="http://bwp.cbsnews.com/search" scrolling="no" width="620" height="220" marginheight="0" marginwidth="0" frameborder="0" target="_top" class="bwp_std_call"></iframe> <ul class="newsListing" section="mncol;lst"> <li section="1"> <a href="http://www.cbsnews.com/8301-202_162-57605193/jackson-still-hopeful-for-captive-u.s-mans-release/" class="title">Jackson still hopeful for captive U.S. man's release</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605193/jackson-still-hopeful-for-captive-u.s-mans-release/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/AP234482879774_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605193/jackson-still-hopeful-for-captive-u.s-mans-release/">Activist said he intends to press on with a bid to mediate the retrieval of a former U.S. soldier captured by Colombian rebels three months ago</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 8:35 PM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="2"> <a href="http://www.cbsnews.com/8301-202_162-57605175/islamic-militants-slaughter-50-sleeping-college-students-in-nigeria/" class="title">Islamic militants slaughter 50 sleeping college students in Nigeria</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605175/islamic-militants-slaughter-50-sleeping-college-students-in-nigeria/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/nigeria_AP727796350935_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605175/islamic-militants-slaughter-50-sleeping-college-students-in-nigeria/">Islamic extremists suspected in attack on rural college; bodies being recovered amid torched buildings and classrooms</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 1:57 PM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="3"> <a href="http://www.cbsnews.com/8301-3460_162-57605174/face-the-nation-transcripts-september-29-2013-durbin-paul-blackburn-van-hollen-brzezinski/" class="title">Face the Nation transcripts September 29, 2013: Durbin, Paul, Blackburn, Van Hollen, Brzezinski</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-3460_162-57605174/face-the-nation-transcripts-september-29-2013-durbin-paul-blackburn-van-hollen-brzezinski/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/FTN_Durbin_929_1_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-3460_162-57605174/face-the-nation-transcripts-september-29-2013-durbin-paul-blackburn-van-hollen-brzezinski/">CBS News' Bob Schieffer hosts the hour-long program on the latest political news</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 1:39 PM EDT </span> <span class="pipe"></span> <span class="redMeta">Face The Nation</span> </p> </div> <br style="clear: both;"/> </li> <li section="4"> <a href="http://www.cbsnews.com/8301-3460_162-57605172/how-real-is-the-prospect-of-a-nuclear-deal-with-iran/" class="title">How real is the prospect of a nuclear deal with Iran?</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-3460_162-57605172/how-real-is-the-prospect-of-a-nuclear-deal-with-iran/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/FTN_0929_Half_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-3460_162-57605172/how-real-is-the-prospect-of-a-nuclear-deal-with-iran/">Former U.S. national security adviser says a deal to curb Iran's nuclear program is finally an achievable goal</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 1:39 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">lindsey boerma</span> <span class="pipe"></span> <span class="redMeta">Face The Nation</span> </p> </div> <br style="clear: both;"/> </li> <li section="5"> <a href="http://www.cbsnews.com/8301-202_162-57605164/syrian-president-bashar-assad-promises-to-destroy-chemical-weapons/" class="title">Syrian President Bashar Assad promises to destroy chemical weapons</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605164/syrian-president-bashar-assad-promises-to-destroy-chemical-weapons/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/08/en_0908_Rose_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605164/syrian-president-bashar-assad-promises-to-destroy-chemical-weapons/">Bashar Assad says "of course" his government will comply with U.N. resolution calling for destruction of country's chemical arms</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 11:08 AM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="6"> <a href="http://www.cbsnews.com/8301-3445_162-57605049/chris-christie-a-fighter-from-jersey/" class="title">Chris Christie, a fighter from Jersey</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-3445_162-57605049/chris-christie-a-fighter-from-jersey/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/26/ChrisChristie_TracySmith_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-3445_162-57605049/chris-christie-a-fighter-from-jersey/">N.J.'s Republican governor running for re-election says it would be "stupid" to decide now whether to make a White House run in 2016</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 9:42 AM EDT </span> <span class="pipe"></span> <span class="redMeta">Sunday Morning</span> </p> </div> <br style="clear: both;"/> </li> <li section="7"> <a href="http://www.cbsnews.com/8301-202_162-57605160/osama-bin-ladens-continuing-sway-shown-in-kenya-mall-attack/" class="title">Osama bin Laden's continuing sway shown in Kenya mall attack</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605160/osama-bin-ladens-continuing-sway-shown-in-kenya-mall-attack/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/24/kenya_mall_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605160/osama-bin-ladens-continuing-sway-shown-in-kenya-mall-attack/">Al-Qaeda now displaying a twisted understanding of the bad PR they get from the indiscriminate killing of Muslims</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 9:25 AM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="8"> <a href="http://www.cbsnews.com/8301-250_162-57605153/shutdown-nearing-gop-seeks-health-care-delay/" class="title">Shutdown nearing, GOP seeks health care delay</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605153/shutdown-nearing-gop-seeks-health-care-delay/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/AP826690120917_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605153/shutdown-nearing-gop-seeks-health-care-delay/">Republican-led House approved legislation imposing a 1-year delay in key parts of the health care law as the price for avoiding a partial government shutdown</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 29, 2013 12:41 AM EDT </span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="9"> <a href="http://www.cbsnews.com/8301-18563_162-57605150/iranian-president-hasan-rouhani-greeted-with-mixed-reaction-after-obama-phone-call/" class="title">Iranian President Hasan Rouhani greeted with mixed reaction after Obama phone call</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-18563_162-57605150/iranian-president-hasan-rouhani-greeted-with-mixed-reaction-after-obama-phone-call/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/hasan_rouhani_AP449895010838_fullwidth_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-18563_162-57605150/iranian-president-hasan-rouhani-greeted-with-mixed-reaction-after-obama-phone-call/">Mixed reaction upon President Hasan Rouhani's return following end of 34-year silence between Iran, U.S. with Obama phone call</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 10:19 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">kelly cobiella</span> <span class="pipe"></span> <span class="redMeta">CBS Evening News</span> </p> </div> <br style="clear: both;"/> </li> <li section="10"> <a href="http://www.cbsnews.com/8301-18563_162-57605147/white-house-democrats-vow-to-reject-gops-latest-conditions-to-fund-government/" class="title">White House, Democrats vow to reject GOP's latest conditions to fund government</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-18563_162-57605147/white-house-democrats-vow-to-reject-gops-latest-conditions-to-fund-government/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/eric_cantor_AP769373537389_fullwidth_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-18563_162-57605147/white-house-democrats-vow-to-reject-gops-latest-conditions-to-fund-government/">White House, Democrats vow to reject GOP's latest Obamacare conditions to fund government past Monday</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 9:31 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">jeff pegues</span> <span class="pipe"></span> <span class="redMeta">CBS Evening News</span> </p> </div> <br style="clear: both;"/> </li> <li section="11"> <a href="http://www.cbsnews.com/8301-202_162-57605143/2-canadian-men-remain-behind-bars-in-egypt/" class="title">2 Canadian men remain behind bars in Egypt</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605143/2-canadian-men-remain-behind-bars-in-egypt/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/08/14/Egypt_AP975880214451_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605143/2-canadian-men-remain-behind-bars-in-egypt/">Two Canadians said they were beaten and have been subjected to degrading treatment since being detained at the height of violent protests in Cairo last month</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 8:32 PM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="12"> <a href="http://www.cbsnews.com/8301-250_162-57605126/risking-government-shutdown-house-gop-seeks-obamacare-delay/" class="title">Risking government shutdown, House GOP seeks Obamacare delay</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605126/risking-government-shutdown-house-gop-seeks-obamacare-delay/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/AP67215762150_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605126/risking-government-shutdown-house-gop-seeks-obamacare-delay/">Lower chamber to vote on bill funding the government but delaying health-care law with Senate unlikely to approve</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 5:43 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">jake miller</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="13"> <a href="http://www.cbsnews.com/8301-250_162-57605122/gop-defends-debt-ceiling-demands/" class="title">GOP defends debt-ceiling demands</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605122/gop-defends-debt-ceiling-demands/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/Politics_GOPAddress_928_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605122/gop-defends-debt-ceiling-demands/">Washington Republican says it's "common sense" to tie debt-ceiling increase to spending reductions, but Obama accuses GOP of threatening economy</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 11:41 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">jake miller</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="14"> <a href="http://www.cbsnews.com/8301-33816_162-57605120/all-eyes-on-republicans-as-clock-ticks-toward-government-shutdown/" class="title">All eyes on Republicans as clock ticks toward government shutdown</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-33816_162-57605120/all-eyes-on-republicans-as-clock-ticks-toward-government-shutdown/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/john_boehner_AP158502728758_fullwidth_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-33816_162-57605120/all-eyes-on-republicans-as-clock-ticks-toward-government-shutdown/">House GOP set to meet Saturday to determine how far it wants to take threat of shutting down government over Obamacare</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 28, 2013 10:38 AM EDT </span> <span class="pipe"></span> <span class="redMeta">CBS This Morning: Saturday</span> </p> </div> <br style="clear: both;"/> </li> <li section="15"> <a href="http://www.cbsnews.com/8301-202_162-57605101/u.n-votes-to-eliminate-syrias-chemical-weapons/" class="title">U.N. votes to eliminate Syria's chemical weapons</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57605101/u.n-votes-to-eliminate-syrias-chemical-weapons/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/AP755640002812_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57605101/u.n-votes-to-eliminate-syrias-chemical-weapons/">Vote after two weeks of intense negotiations marked a major breakthrough in the paralysis that has gripped the Security Council since the Syrian uprising began</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 10:58 PM EDT </span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="16"> <a href="http://www.cbsnews.com/8301-400_162-57605112/giants-dodgers-a-long-and-sometimes-violent-rivalry/" class="title">Giants-Dodgers: A long and sometimes violent rivalry</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-400_162-57605112/giants-dodgers-a-long-and-sometimes-violent-rivalry/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/AP329393580215_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-400_162-57605112/giants-dodgers-a-long-and-sometimes-violent-rivalry/">For the second time in three seasons, serious violence outside the stadium has marred the rivalry between the two legendary baseball teams</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 10:25 PM EDT </span> <span class="pipe"></span> <span class="redMeta">Sports</span> </p> </div> <br style="clear: both;"/> </li> <li section="17"> <a href="http://www.cbsnews.com/8301-250_162-57605068/obama-to-congress-dont-shut-the-economy-down/" class="title">Obama to Congress: Don't shut the economy down</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605068/obama-to-congress-dont-shut-the-economy-down/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/Obama-Rouhani_statement_041_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605068/obama-to-congress-dont-shut-the-economy-down/">With three days left before a government shutdown, president tells Republicans to stop their political grandstanding</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 4:42 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">stephanie condon</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="18"> <a href="http://www.cbsnews.com/8301-505123_162-57605069/government-budget-fight-keeps-pressure-on-stocks/" class="title">Government budget fight keeps pressure on stocks</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-505123_162-57605069/government-budget-fight-keeps-pressure-on-stocks/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/07/16/AP8855318398_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-505123_162-57605069/government-budget-fight-keeps-pressure-on-stocks/">As weekend arrives, nervous investors wait to see if lawmakers will agree to pass a bill to fund the government</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 4:32 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">charles wilbanks</span> <span class="pipe"></span> <span class="redMeta">Markets</span> </p> </div> <br style="clear: both;"/> </li> <li section="19"> <a href="http://www.cbsnews.com/8301-201_162-57605064/audit-finds-army-paid-$16-million-to-deserters-awol-soldiers/" class="title">Audit finds Army paid $16 million to deserters, AWOL soldiers</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-201_162-57605064/audit-finds-army-paid-$16-million-to-deserters-awol-soldiers/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim/2013/03/01/en_0301_CORDES_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-201_162-57605064/audit-finds-army-paid-$16-million-to-deserters-awol-soldiers/">It's the second time since 2006 the military has been dinged for the error</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 4:14 PM EDT </span> <span class="pipe"></span> <span class="redMeta">U.S.</span> </p> </div> <br style="clear: both;"/> </li> <li section="20"> <a href="http://www.cbsnews.com/8301-250_162-57605065/obama-speaks-to-rouhani-says-iran-nuclear-deal-possible/" class="title">Obama speaks to Rouhani, says Iran nuclear deal possible</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605065/obama-speaks-to-rouhani-says-iran-nuclear-deal-possible/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/Jalal-obama_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605065/obama-speaks-to-rouhani-says-iran-nuclear-deal-possible/">Obama optimistic after phone call with Iran leader - the first conversation between U.S. and Iranian presidents since 1979</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 4:01 PM EDT </span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="21"> <a href="http://www.cbsnews.com/8301-3460_162-57605060/bobs-blog-chaos-in-congress/" class="title">Bob's Blog: Chaos in Congress</a><br/> <div class="dekFrame2"> <div class="dek"> <a href="http://www.cbsnews.com/8301-3460_162-57605060/bobs-blog-chaos-in-congress/">Bob previews what's ahead this Sunday on "Face the Nation"</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 3:38 PM EDT </span> <span class="pipe"></span> <span class="redMeta">Face The Nation</span> </p> </div> <br style="clear: both;"/> </li> <li section="22"> <a href="http://www.cbsnews.com/8301-250_162-57605024/senate-passes-stopgap-spending-bill-restores-obamacare-funding/" class="title">Senate passes stopgap spending bill; restores Obamacare funding</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57605024/senate-passes-stopgap-spending-bill-restores-obamacare-funding/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim/2013/02/14/capitol_economy_3_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57605024/senate-passes-stopgap-spending-bill-restores-obamacare-funding/">Bill now goes back to the House, where GOP leaders have not said how they'll proceed; Congress has three days left to avert a government shutdown</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 2:17 PM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">stephanie condon</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="23"> <a href="http://www.cbsnews.com/8301-505267_162-57604968/sen-john-mccain-im-very-sad-over-u.n-resolution-on-syrian-weapons/" class="title">Sen. John McCain: I'm "very sad" over U.N. resolution on Syrian weapons</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-505267_162-57604968/sen-john-mccain-im-very-sad-over-u.n-resolution-on-syrian-weapons/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/CTM_0927_McCain_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-505267_162-57604968/sen-john-mccain-im-very-sad-over-u.n-resolution-on-syrian-weapons/">Ariz. senator on Syria, loosening sanctions on Iran and the divisive politics of defunding Obamacare</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 12:38 PM EDT </span> <span class="pipe"></span> <span class="redMeta">Politics and Power</span> </p> </div> <br style="clear: both;"/> </li> <li section="24"> <a href="http://www.cbsnews.com/8301-250_162-57604963/john-catsimatidis-on-hillary-clinton-chris-christie-and-the-nyc-mayoral-race/" class="title">John Catsimatidis on Hillary Clinton, Chris Christie and the NYC mayoral race</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57604963/john-catsimatidis-on-hillary-clinton-chris-christie-and-the-nyc-mayoral-race/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/175786964_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57604963/john-catsimatidis-on-hillary-clinton-chris-christie-and-the-nyc-mayoral-race/">John Catsimatidis talks about his failed mayoral bid, Hillary Clinton and Chris Christie, and media coverage of overweight political candidates</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 11:54 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">jacqueline alemany</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="25"> <a href="http://www.cbsnews.com/8301-202_162-57604993/pakistan-government-officials-bus-hit-by-bomb/" class="title">Pakistan government officials' bus hit by bomb</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57604993/pakistan-government-officials-bus-hit-by-bomb/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/Peshawar_bomb_AP251853968006_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57604993/pakistan-government-officials-bus-hit-by-bomb/">Attack leaves at least 18 dead days after massive blast targeting Christians in same city, and hours before Pakistani leader addresses U.N.</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 11:36 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">farhan bokhari</span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="26"> <a href="http://www.cbsnews.com/8301-250_162-57604985/african-americans-embrace-chris-christie-in-new-jersey/" class="title">African-Americans embrace Chris Christie in New Jersey</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57604985/african-americans-embrace-chris-christie-in-new-jersey/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/180477494_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57604985/african-americans-embrace-chris-christie-in-new-jersey/">Christie's strong numbers among black voters could give him a powerful 2016 talking point about broadening the GOP tent</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 10:54 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">scott conroy</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="27"> <a href="http://www.cbsnews.com/8301-202_162-57604972/iran-leader-rouhani-gives-his-nation-and-investors-hope-that-devastating-sanctions-may-be-eased/" class="title">Iran leader Rouhani gives his nation, and investors, hope that devastating sanctions may be eased</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-202_162-57604972/iran-leader-rouhani-gives-his-nation-and-investors-hope-that-devastating-sanctions-may-be-eased/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/24/iran_181751451_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-202_162-57604972/iran-leader-rouhani-gives-his-nation-and-investors-hope-that-devastating-sanctions-may-be-eased/">Rouhani's 1st steps into moderation bring fresh hope, but sanctions-battered Iranians aren't as optimistic as global investors, yet</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 10:08 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">elizabeth palmer</span> <span class="pipe"></span> <span class="redMeta">World</span> </p> </div> <br style="clear: both;"/> </li> <li section="28"> <a href="http://www.cbsnews.com/8301-250_162-57604959/why-obamacares-success-may-hinge-on-a-website/" class="title">Why Obamacare's success may hinge on a website</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57604959/why-obamacares-success-may-hinge-on-a-website/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/08/13/prescription_costs_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57604959/why-obamacares-success-may-hinge-on-a-website/">John Dickerson: When people visit healthcare.gov after October 1, they will see real numbers about how Obamacare could affect them</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 9:28 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">john dickerson</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> <li section="29"> <a href="http://www.cbsnews.com/8301-505143_162-57604636/the-zeitgeist-of-motivational-posters/" class="title">The zeitgeist of motivational posters</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-505143_162-57604636/the-zeitgeist-of-motivational-posters/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/25/Motivational-Poster_75x56.png" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-505143_162-57604636/the-zeitgeist-of-motivational-posters/">What one company's new twist on cliched office decor says about today's business attitudes and priorities</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 8:37 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">michael hess</span> <span class="pipe"></span> <span class="redMeta">Small Business</span> </p> </div> <br style="clear: both;"/> </li> <li section="30"> <a href="http://www.cbsnews.com/8301-250_162-57604894/what-happens-if-the-government-shuts-down/" class="title">What happens if the government shuts down?</a><br/> <div class="thumbFrame"> <a href="http://www.cbsnews.com/8301-250_162-57604894/what-happens-if-the-government-shuts-down/"><img class="storyImg" src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/20/sorrywereclosed_75x56.jpg" title="View Photo" alt="View Photo"/></a> </div> <div class="dekFrame"> <div class="dek"> <a href="http://www.cbsnews.com/8301-250_162-57604894/what-happens-if-the-government-shuts-down/">Congress seems to be moving closer to passing bill to keep government running, but hasn't crossed finish line yet</a> </div> <p class="meta"> <span class="grayMeta">On</span> <span class="date">Sep 27, 2013 5:51 AM EDT </span> <span class="pipe"></span> <span class="grayMeta">By</span> <span class="author">stephanie condon</span> <span class="pipe"></span> <span class="redMeta">Politics</span> </p> </div> <br style="clear: both;"/> </li> </ul> <div class="pagination"> <div class="previousPage disabled">prev</div> <a href='/1770-5_162-0-2.html?query=politics&searchtype=cbsSearch&sort=updateDate desc&rpp=30&pageType=30'><div class="nextPage">next</div></a> <div class="pageNumbers">1<span class="pipe">/</span>1,768</div> </div> <iframe src="http://bwp.cbsnews.com/search?ordinal=2" scrolling="no" width="620" height="220" marginheight="0" marginwidth="0" frameborder="0" target="_top" class="bwp_std_call"></iframe> </div><!-- /resultsContent --> </div><!-- /singleColumn --> <div id="contentAux" class="contentAux genericRight"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+<div id="mostPopular" class="rightRail mostPopular">
+    <h4 class="labelText">
+         Most Popular
+	</h4>
+	<ul>
+    
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li class="first">
+            			<div class="backgroundSlash numbers">01</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605151/glenn-greenwald-working-on-new-nsa-revelations/" class="headline">Glenn Greenwald working on new NSA revelations</a>
+            				<span class="countNumber">61231</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">02</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-207_162-57605154/breaking-bad-fans-hooked-for-series-finale/" class="headline">"Breaking Bad" mania leads up to finale</a>
+            				<span class="countNumber">53950</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">03</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605176/optimism-fades-ahead-of-government-shutdown-deadline/" class="headline">Optimism fades ahead of government shutdown deadline</a>
+            				<span class="countNumber">16613</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li >
+            			<div class="backgroundSlash numbers">04</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-201_162-57605166/san-francisco-bay-area-tv-news-crews-hit-by-series-of-brazen-robberies/" class="headline">SF-area TV news crews hit by series of brazen robberies</a>
+            				<span class="countNumber">14971</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                
+                
+                
+
+                
+                
+              
+                
+
+                    
+                            
+                        
+                    
+                    <li class="last">
+            			<div class="backgroundSlash numbers">05</div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-3445_162-57605121/metallica-is-now-older-wiser-and-in-it-for-the-long-run/" class="headline">Metallica is now older, wiser, and in it for the long run</a>
+            				<span class="countNumber">12344</span> <span class="countIncrement">views</span>
+            			</div>
+            
+                    </li>
+                    
+
+                
+                
+                
+                
+
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+	</ul>
+</div>
+ <div id="topMPU" class="mpu"> <script type="text/JavaScript">
+            <!--
+            var cbsiAd16_100 = {
+                'SP' : '16',
+                'POS' : '100',
+                'WIDTH' : '300',
+                'HEIGHT' : '250',
+                'REFRESH' : '1'
+            };
+            cbsiSetupAdDiv("cbsiAd16_100", cbsiAd16_100);
+            cbsiGetDeferredAds(["cbsiAd16_100"]);
+            //-->
+        </script> </div> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="rightRail mostShared" id="mostShared">
+
+	<h4 class="labelText">Most Shared</h4>
+	<ul>
+    
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+
+                   
+               
+
+                   
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li class="first">
+            			<a href="http://www.cbsnews.com/8301-3445_162-57605121/metallica-is-now-older-wiser-and-in-it-for-the-long-run/" class="image60" alt="Metallica is now older, wiser, and in it for the long run"><img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/28/Metallica_TTN_60x60.jpg" alt="Metallica is now older, wiser, and in it for the long run"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-3445_162-57605121/metallica-is-now-older-wiser-and-in-it-for-the-long-run/" class="headline" alt="Metallica is now older, wiser, and in it for the long run">Metallica is now older, wiser, and in it for the long run</a>
+                            <a href="http://www.cbsnews.com/8301-3445_162-57605121/metallica-is-now-older-wiser-and-in-it-for-the-long-run/"><span class="countNumber">7353</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+                 
+                    
+                        
+                        
+                        
+                        
+                    
+               
+                    
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="/video/watch/?id=50156080n" class="image60" alt="Sen. Paul: Obama can't get everything he wants on Obamacare"><img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/FTN_Paul_929_60x60.jpg" alt="Sen. Paul: Obama can't get everything he wants on Obamacare"></a>
+            			<div class="text">
+            				<a href="/video/watch/?id=50156080n" class="headline" alt="Sen. Paul: Obama can't get everything he wants on Obamacare">Sen. Paul: Obama can't get everything he wants on Obamacare</a>
+                            <a href="/video/watch/?id=50156080n"><span class="countNumber">4010</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+                 
+                    
+               
+                    
+                        
+                        
+                        
+                        
+                    
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="/video/watch/?id=50156083n" class="image60" alt="Dreaming of a bright future for Congress"><img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/29/FTN_Commentary_929_60x60.jpg" alt="Dreaming of a bright future for Congress"></a>
+            			<div class="text">
+            				<a href="/video/watch/?id=50156083n" class="headline" alt="Dreaming of a bright future for Congress">Dreaming of a bright future for Congress</a>
+                            <a href="/video/watch/?id=50156083n"><span class="countNumber">3361</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+
+                   
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<a href="http://www.cbsnews.com/8301-204_162-57604865/ariz-poison-control-center-reports-first-u.s-cases-of-krokodil-use/" class="image60" alt="Ariz. poison control center reports first U.S. cases of krokodil use"><img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/26/krokodil_60x60.jpg" alt="Ariz. poison control center reports first U.S. cases of krokodil use"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-204_162-57604865/ariz-poison-control-center-reports-first-u.s-cases-of-krokodil-use/" class="headline" alt="Ariz. poison control center reports first U.S. cases of krokodil use">Ariz. poison control center reports first U.S. cases of krokodil use</a>
+                            <a href="http://www.cbsnews.com/8301-204_162-57604865/ariz-poison-control-center-reports-first-u.s-cases-of-krokodil-use/"><span class="countNumber">1693</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+        
+        
+        
+        
+        
+        
+
+               
+
+                   
+               
+
+                   
+               
+
+                   
+                       
+                        
+                        
+                        
+
+                    
+               
+           
+
+        
+                
+
+                    
+                            
+                        
+
+
+            		<li class="last">
+            			<a href="http://www.cbsnews.com/8301-18563_162-57605098/okla-teen-acts-to-right-his-fathers-wrong/" class="image60" alt="Okla. teen acts to right his father's wrong"><img src="http://i.i.cbsi.com/cnwk.1d/i/tim2/2013/09/27/hartmanparkinglot_60x60.jpg" alt="Okla. teen acts to right his father's wrong"></a>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-18563_162-57605098/okla-teen-acts-to-right-his-fathers-wrong/" class="headline" alt="Okla. teen acts to right his father's wrong">Okla. teen acts to right his father's wrong</a>
+                            <a href="http://www.cbsnews.com/8301-18563_162-57605098/okla-teen-acts-to-right-his-fathers-wrong/"><span class="countNumber">1189</span> <span class="countIncrement">shares</span></a>
+            			</div>
+            		</li>
+
+                    
+                
+            
+    
+    </ul>
+</div> <iframe src="http://bwp.cbsnews.com/search?ordinal=3" scrolling="no" width="300" height="260" marginheight="0" marginwidth="0" frameborder="0" target="_top" class="bwp_std_call"></iframe> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+		
+
+
+
+<div id="mostDiscussed" class="rightRail mostDiscussed">
+	<h4 class="labelText">Most Discussed</h4>
+    <ul>
+    
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li class="first">
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57605126/risking-government-shutdown-house-gop-seeks-obamacare-delay/" class="commentCount">838</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605126/risking-government-shutdown-house-gop-seeks-obamacare-delay/" class="headline">Risking government shutdown, House GOP seeks Obamacare delay</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57605176/optimism-fades-ahead-of-government-shutdown-deadline/" class="commentCount">347</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605176/optimism-fades-ahead-of-government-shutdown-deadline/" class="headline">Optimism fades ahead of government shutdown deadline</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57605153/shutdown-nearing-gop-seeks-health-care-delay/" class="commentCount">288</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605153/shutdown-nearing-gop-seeks-health-care-delay/" class="headline">Shutdown nearing, GOP seeks health care delay</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li >
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-18563_162-57605147/white-house-democrats-vow-to-reject-gops-latest-conditions-to-fund-government/" class="commentCount">151</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-18563_162-57605147/white-house-democrats-vow-to-reject-gops-latest-conditions-to-fund-government/" class="headline">White House, Democrats vow to reject GOP's latest conditions to fund government</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+            
+                
+                
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                        
+                        
+                        
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                    
+                
+
+                
+                         
+                
+                
+                
+                
+                
+                
+
+                    
+                            
+                        
+
+
+            		<li class="last">
+            			<div class="commentBubble"><a href="http://www.cbsnews.com/8301-250_162-57605149/report-nsa-maps-out-a-persons-social-connections/" class="commentCount">141</a></div>
+            			<div class="text">
+            				<a href="http://www.cbsnews.com/8301-250_162-57605149/report-nsa-maps-out-a-persons-social-connections/" class="headline">Report: NSA maps out a person's social connections</a>
+            			</div>
+            		</li>
+
+                    
+
+
+                
+                
+                
+                
+                
+            
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    </ul>
+</div> <div id="bottomMPU" class="mpu"> <script type="text/JavaScript">
+            <!--
+            var cbsiAd16_200 = {
+                'SP' : '16',
+                'POS' : '200',
+                'REFRESH' : '1'
+            };
+            cbsiSetupAdDiv("cbsiAd16_200", cbsiAd16_200);
+            cbsiGetDeferredAds(["cbsiAd16_200"]);
+            //-->
+        </script> </div> <script type="text/JavaScript">
+       <!--
+           var cbsiAd104_100 = {
+             'SP' : '104',
+             'POS' : '100',
+             'REFRESH' : '1'
+             };
+           cbsiSetupAdDiv("cbsiAd104_100", cbsiAd104_100);
+           cbsiGetDeferredAds(["cbsiAd104_100"]);
+       //-->
+    </script> </div><!-- /contentAux --> </div><!-- /contentMain --> </div><!-- /cbsInnerWrap --> </div><!-- /cbsContent --> </div><!-- /cbsContentWrap --> </div> <!-- rb_content --> </div> <!-- rb_wrap --> </div> <!-- rb_skin --> <!-- showTest --> <footer id="rbFooter"> <div class="cbsFooterBackground"> <div id="cbsFooter" section="ftr"> <div class="footerColumns"> <ul class="footerLinks cbsnews"> <li class="title">CBSNews.com</li> <li><a href="http://www.cbsnews.com/stories/2005/12/08/utility/main1108861.shtml">Site Map</a></li> <li><a href="http://www.cbsnews.com/stories/2006/03/31/utility/main1459753.shtml">Video Site Map</a></li> <li><a href="https://cbsi.secure.force.com/CBSi/knowledgehome">Help</a></li> <li><a href="http://www.cbsnews.com/htdocs/feedback/fb_news_form.shtml" onclick="new cbsPopup('feedback').open(this.href); return false;">Contact Us</a></li> <li><a href="http://www.cbsnews.com/stories/2002/10/17/utility/main525997.shtml">CBS Bios</a></li> <li><a href="http://www.cbsnews.com/Careers">Careers</a></li> <li><a href="http://www.cbsnews.com/stories/2004/04/26/broadcasts/main613839.shtml">Internships</a></li> <li class="last"><a href="http://www.cbsnews.com/stories/2004/08/03/broadcasts/main633770.shtml">Development Programs</a></li> </ul> <ul class="footerLinks cbsnews"> <li class="title">CBS Interactive</li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a></li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/terms-of-use">Terms of Use</a></li> <li><a rel="nofollow" href="http://legalterms.cbsinteractive.com/eula/">Mobile User Agreement</a></li> <li><a href="http://www.cbscorporation.com/" title="About CBS">About CBS</a></li> <li><a href="http://www.cbsinteractive.com/advertise/" title="Advertise">Advertise</a></li> <li><a href="http://cbsimedia.cbs.com/captioning/info.html" title="Advertise">Closed Captioning</a></li> </ul> <ul class="footerLinks followus"> <li class="title">Follow Us</li> <li class="footerFacebook"><a href="https://www.facebook.com/CBSNews">Facebook</a></li> <li class="footerTwitter"><a href="http://twitter.com/#!/CBSNews">Twitter</a></li> <li class="footerRSS"><a href="http://www.cbsnews.com/stories/2005/01/12/utility/main666437.shtml?tag=contentMain;contentAux">RSS</a></li> <li class="footerNewsletters"><a href="http://www.cbsnews.com/8721-4_162-0.html">Email Newsletters</a></li> <li class="footerYouTube"><a href="http://www.youtube.com/user/CBSNewsOnline">YouTube</a></li> <li class="footerMobile"><a href="http://wap.cbsnews.com/">CBS Mobile</a></li> <li class="footerRadio"><a href="http://www.cbsnews.com/2718-18565_162-1663/cbs-radio-news/">CBS Radio News</a></li> <li class="footerLocal"><a href="http://www.cbsnews.com/2718-18565_162-1672.html">CBS Local</a></li> </ul> <div class="brandLogo"> <a href="/" class="logoCBSnews">CBS News</a> <p class="footerCopyright"> Copyright &#169; 2013 CBS Interactive Inc.<br/> All rights reserved. </p></div> <div class="search"> <div class="loginSearch" section="loginSearch"> <form method="get" action="/1770-5_162-0.html" class="universalSearch" name="tsearch" section="srch"> <div class="searchBoxWrap"> <span> <input type="text" name="query" size="20" maxlength="255" class="searchBox"/> </span> </div> <input type="hidden" name="tag" value="srch" /> <input type="hidden" name="searchtype" value="cbsSearch" /> <input type="submit" class="searchGo" value="Go" /> </form> </div> </div> </div> <!-- /footerColumns --> </div><!-- /cbsFooter --> </div><!-- /cbsFooterBackground -->
+</footer> <!-- ClearGiff DW JS --> <script type="text/javascript">
+        if ($defined(cbsVar_sectId)) PageVars.set('sectionId', cbsVar_sectId);
+        PageVars.set('assetTypeId', 1);
+        DW.pageParams = {
+            siteId: '162',
+            ptid: '1770',
+            onid: PageVars.get('sectionId') || PageVars.get('nodeId'),
+            asId: PageVars.get('assetId'),
+            
+            
+            astId: PageVars.get('assetTypeId'),
+            x_breadcrumb: PageVars.get('breadcrumb'),
+            pguid:  window.cbsiGUID,
+            ldc_domain: '.cbsnews.com'
+        };
+
+        DW.clear();
+        DW.trackClicks(DW.noTagClickHandler);
+    </script> <script type="text/javascript">
+        cbsiAdBehavioralSetup();
+        cbsiAdBehavioral();
+    </script> <script type="text/javascript"> cbsiLoadDeferredAds(); </script> <noscript> <img src="http://dw.cbsi.com/clear/c.gif?sid=162&amp;im=img" border="0" height="1" width="1" alt="" /> </noscript> <!-- CrowdScience --> <script type="text/javascript">
+(function() {
+	var xclgfbrowser = Cookie.read("XCLGFbrowser");
+	if (xclgfbrowser == null) {
+		xclgfbrowser = "";
+	}
+	var cs = document.createElement('script'); cs.type = 'text/javascript';
+	cs.async = true;
+	cs.src = ('https:' == document.location.protocol ?  'https://' : 'http://') +
+	'static.crowdscience.com/start-c2e7cdddce.js?cp0=' + encodeURIComponent(xclgfbrowser) + '&cp1='
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(cs,s);
+})();
+</script> <!-- /CrowdScience --> <!-- ClickTale Bottom part -->
+<script type='text/javascript'>
+document.write(unescape("%3Cscript%20src='" +
+(document.location.protocol == 'https:' ?
+'https://clicktalecdn.sslcs.cdngc.net/' :
+'http://cdn.clicktale.net/') +
+"www08/ptc/a5dd7e40-c471-4a13-943c-acfba2619535.js'%20type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- ClickTale end of Bottom part --> <!-- NR footer --> <script type="text/javascript"> cbsiLoadDeferredAds(); </script> </div> <!-- rb_shell --> </body> </html>
