@@ -6,7 +6,7 @@ from scrapy.contrib.spiders import CrawlSpider, Rule
 from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 
 from CBScrapy.items import FoodItem
-class BWeekSpider(CrawlSpider):
+class FoodSpider(CrawlSpider):
   name = "food"
   allowed_domains= ["www.food.com"]
   start_urls = []
