@@ -11,5 +11,7 @@ BOT_NAME = 'CBScrapy'
 SPIDER_MODULES = ['CBScrapy.spiders']
 NEWSPIDER_MODULE = 'CBScrapy.spiders'
 
+DEPTH_LIMIT = 1
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'CBScrapy (+http://www.yourdomain.com)'
