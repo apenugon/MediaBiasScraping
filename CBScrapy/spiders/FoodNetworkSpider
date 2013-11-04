@@ -16,7 +16,7 @@ class FoodNetworkSpider(BaseSpider)
         sel = Selector(response)
 
         for url in sel.xpath('//a/@href').extract():
-          if (recipe_pattern.match(url.xpath(/text)):
+          if (recipe_pattern.match(url.xpath('/text')):
             yield Request(url, callback=self.parse_recipe)
             
         for search_Page in sel.xpath(//a[@class="nextprev"]):
