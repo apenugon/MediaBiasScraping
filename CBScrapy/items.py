@@ -12,3 +12,12 @@ class NewsItem(Item):
   date = Field()
   src = Field()
   url = Field()
+
+class FoodItem(Item):
+  TotalTime = Field();
+  PrepTime = Field();
+  Title = Field();
+  CookTime = Field();
+  Ingredients = Field();
+  Directions = Field();
+  Source = Field();
