@@ -12,12 +12,12 @@ class SFCSpider(CrawlSpider):
   name = "slate"
   allowed_domains= ["www.slate.com"]
   start_urls=[]
-  string_ex = "www.slate.com/articles/news_and_politics.300.html"
+  string_ex = "http://www.slate.com/articles/news_and_politics.(!y!).html"
   #offset=25440 max
   for i in range(350):
     start_urls.append(string_ex.replace("(!y!)", str(i + 1)))
   rules = (
-      Rule(SgmlLinkExtractor(allow=("/article/")), callback="parse1", follow=False),
+      Rule(SgmlLinkExtractor(allow=("/articles/")), callback="parse1", follow=False),
   )
 
   def parse1(self, response):

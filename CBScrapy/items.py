@@ -13,3 +13,5 @@ class NewsItem(Item):
   src = Field()
   url = Field()
 
+class FoodItem(Item):
+  ingredients = Field()
